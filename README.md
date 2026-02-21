@@ -1,4 +1,4 @@
-# Market-Basket-Analysis
+# Market_Basket_Analysis
 I developed a comprehensive data analytics web application that integrates Market Basket Analysis, Association Rule Mining, NLP, and a Recommendation System into a single interactive platform using a grocery sales dataset.
 
 ## Analytics and Models
