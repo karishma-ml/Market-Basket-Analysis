@@ -26,3 +26,4 @@ I developed a comprehensive data analytics web application that integrates Marke
 - Customer purchase behavior analysis
 
 ## Application Preview
+![market-basket](market-basket-preview)
